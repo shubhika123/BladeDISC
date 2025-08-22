@@ -254,3 +254,6 @@ We appeal to the community developers interested in joining.
 * DingTalk group for support and discussion:
 
 ![DingTalk](./docs/pics/dingtalk_support.png)
+
+
+📖 [Read full documentation in Wiki](../../wiki)
