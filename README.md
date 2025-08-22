@@ -1,6 +1,8 @@
 # BladeDISC Introduction <!-- omit in toc -->
 
-## We're hiring!🔥🔥🔥
+Please take this repo seriously
+
+## We're hiring!🔥🔥🔥 
 We're always looking for candicates to join dev team. Your're the one we're searching for long:
 * 🥷 If you are an compiler or AI enthusiasts.
 * ⭐️ or if you are experienced in optimization on CPUs and GPUs.
