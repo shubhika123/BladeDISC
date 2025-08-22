@@ -4,7 +4,7 @@ numpy
 pytest
 networkx
 py-cpuinfo
-protobuf==3.20.1
+protobuf==4.25.8
 onnx==1.12.0
 expecttest
 decorator
